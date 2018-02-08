@@ -19,3 +19,5 @@ end
 
 y = filter(num,den,u);
 plot(y_v); hold on; plot(y,'r');
+
+%%
